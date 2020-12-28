@@ -1,0 +1,3 @@
+Microsoft CDN: https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js
+
+Google CDN: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
